@@ -1,1 +1,1 @@
-# dev-resources
+This repository is a list of learning resources used. I am following Shopify's [Ways To Grow in FED](https://vault.shopify.io/pages/11190-Ways-to-grow-in-FED) guide.
