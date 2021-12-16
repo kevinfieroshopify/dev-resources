@@ -11,3 +11,8 @@ December 13, 2021:
 
 December 15, 2021:
 * [Game of Life](https://leetcode.com/problems/game-of-life/) - interview problem!
+
+December 16, 2021:
+* [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+* [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+* [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
