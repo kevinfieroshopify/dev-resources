@@ -16,3 +16,8 @@ December 16, 2021:
 * [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 * [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 * [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+
+December 17, 2021:
+* [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+* [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
