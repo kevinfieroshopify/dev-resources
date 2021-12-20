@@ -21,3 +21,8 @@ December 17, 2021:
 * [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [Island Perimeter](https://leetcode.com/problems/island-perimeter/)
+
+December 20, 2021:
+* [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+* [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
+* [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
