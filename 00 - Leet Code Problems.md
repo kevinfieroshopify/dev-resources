@@ -26,3 +26,8 @@ December 20, 2021:
 * [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 * [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 * [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
+
+December 21, 2021:
+* [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
+* [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+* [Intersection of Two Array II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
