@@ -22,6 +22,6 @@ let letVariable = 5;
 console.log(letVariable);
 ```
 
-Intereting Articles:
+Interesting Articles:
 * [StackOverflow: Are Variables Declared With Let Or Const Hoisted?](https://stackoverflow.com/questions/31219420/are-variables-declared-with-let-or-const-hoisted)
 * [Hoisting in Modern JavaScript — let, const, and var](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda)
