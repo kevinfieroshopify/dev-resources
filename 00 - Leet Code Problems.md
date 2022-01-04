@@ -31,3 +31,6 @@ December 21, 2021:
 * [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 * [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 * [Intersection of Two Array II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+
+January 4, 2022:
+* [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
