@@ -36,3 +36,7 @@ January 4, 2022:
 * [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
 * [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 * [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+
+January 5, 2022:
+* [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+* [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
