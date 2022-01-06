@@ -35,3 +35,4 @@
     ```
     * Private variables are used by using `#` in front of the variable name. These can only be accessed internally within the class.
     * Extends allows classes to inherit properties from another class.
+        * Another resource on class inheritance: [LINK](https://javascript.info/class-inheritance)
