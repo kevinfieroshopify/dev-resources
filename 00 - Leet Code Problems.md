@@ -30,7 +30,7 @@ December 20, 2021:
 December 21, 2021:
 * [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)
 * [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-* [Intersection of Two Array II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+* [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
 January 4, 2022:
 * [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)
@@ -40,3 +40,8 @@ January 4, 2022:
 January 5, 2022:
 * [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
 * [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+
+January 7, 2022:
+* [Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+* [Relative Ranks](https://leetcode.com/problems/relative-ranks/)
+    * Article: [Deep Copy an Array](https://dev.to/samanthaming/how-to-deep-clone-an-array-in-javascript-3cig)
