@@ -45,3 +45,4 @@ January 7, 2022:
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/)
 * [Relative Ranks](https://leetcode.com/problems/relative-ranks/)
     * Article: [Deep Copy an Array](https://dev.to/samanthaming/how-to-deep-clone-an-array-in-javascript-3cig)
+* [Array Partition I](https://leetcode.com/problems/array-partition-i/)
