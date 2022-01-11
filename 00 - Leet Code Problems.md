@@ -46,3 +46,9 @@ January 7, 2022:
 * [Relative Ranks](https://leetcode.com/problems/relative-ranks/)
     * Article: [Deep Copy an Array](https://dev.to/samanthaming/how-to-deep-clone-an-array-in-javascript-3cig)
 * [Array Partition I](https://leetcode.com/problems/array-partition-i/)
+
+January 10, 2022:
+* [Distribute Candies](https://leetcode.com/problems/distribute-candies/)
+* [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+    * Documentation: [Array.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
+    * Stack Overflow: [Create Empty 2D Array](https://stackoverflow.com/questions/16512182/how-to-create-empty-2d-array-in-javascript/38213067)
