@@ -52,3 +52,7 @@ January 10, 2022:
 * [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
     * Documentation: [Array.flat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flat)
     * Stack Overflow: [Create Empty 2D Array](https://stackoverflow.com/questions/16512182/how-to-create-empty-2d-array-in-javascript/38213067)
+
+January 11, 2022:
+* [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
+* [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
