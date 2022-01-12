@@ -56,3 +56,8 @@ January 10, 2022:
 January 11, 2022:
 * [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
 * [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)
+
+January 12, 2022:
+* [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
+* [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+* [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
