@@ -66,3 +66,7 @@ January 13, 2022:
 * [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 * [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
 * [Baseball Game](https://leetcode.com/problems/baseball-game/)
+
+January 14, 2022:
+* [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
+    * Documentation: [lastIndexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf)
