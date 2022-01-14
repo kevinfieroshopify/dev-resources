@@ -61,3 +61,8 @@ January 12, 2022:
 * [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)
 * [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 * [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+
+January 13, 2022:
+* [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+* [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
+* [Baseball Game](https://leetcode.com/problems/baseball-game/)
