@@ -70,3 +70,7 @@ January 13, 2022:
 January 14, 2022:
 * [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)
     * Documentation: [lastIndexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/lastIndexOf)
+
+April 1, 2022:
+* [Image Smoother](https://leetcode.com/problems/image-smoother/)
+    * Documentation: [Prefill Zeroes Matrix](https://stackoverflow.com/questions/3689903/how-to-create-a-2d-array-of-zeroes-in-javascript)
