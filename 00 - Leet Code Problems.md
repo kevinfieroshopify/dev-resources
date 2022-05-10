@@ -74,3 +74,8 @@ January 14, 2022:
 April 1, 2022:
 * [Image Smoother](https://leetcode.com/problems/image-smoother/)
     * Documentation: [Prefill Zeroes Matrix](https://stackoverflow.com/questions/3689903/how-to-create-a-2d-array-of-zeroes-in-javascript)
+
+May 10, 2022:
+* [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+* [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+* [Flood Fill](https://leetcode.com/problems/flood-fill/)
