@@ -79,3 +79,6 @@ May 10, 2022:
 * [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 * [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 * [Flood Fill](https://leetcode.com/problems/flood-fill/)
+
+May 11, 2022:
+* [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
